@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 pamac update --no-confirm
